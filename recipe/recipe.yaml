@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/marcusbuffett/pipe-rename/archive/${{ version }}.tar.gz
-  sha256: bf33a2bba9b2d7ca4b13d35a0e49889ba77d8295314dd187f9709fe5ae6ac629
+  sha256: 7f4cd714b9551e7a13a006f0fb73cbda6448abd13c9597d8f91ad1ab3ae607f6
 
 build:
   number: 1
