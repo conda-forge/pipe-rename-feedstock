@@ -1,5 +1,5 @@
 context:
-  version: "1.6.6"
+  version: "1.6.7"
 
 package:
   name: pipe-rename
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/marcusbuffett/pipe-rename/archive/${{ version }}.tar.gz
-  sha256: 7f4cd714b9551e7a13a006f0fb73cbda6448abd13c9597d8f91ad1ab3ae607f6
+  sha256: 011d8ec263af85a9c2037098b1d5bf0ee271a3c1731e6de597bf02ccc81b55a2
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
